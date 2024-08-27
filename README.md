@@ -1,15 +1,9 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="resources/images/logo.svg" width="400"></a></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="http://poser.pugx.org/all.mp/all.mp/v" alt="Status de construção"></a>
-<a href="https://packagist.org/packages/all.mp/all.mp"><img src="http://poser.pugx.org/all.mp/all.mp/downloads" alt="Total de Utilizadores"></a>
-<a href="https://packagist.org/packages/all.mp/all.mp"><img src="http://poser.pugx.org/all.mp/all.mp/version" alt="Última versão estável"></a>
-<a href="https://packagist.org/packages/all.mp/all.mp"><img src="http://poser.pugx.org/apache/log4php/license" alt="Licença"></a>
-</p>
 
 # Documentação do Sistema ALL.MP
 
-Este documento serve como guia para a instalação e configuração do Sistema ALLMP. O Sistema ALLMP é uma aplicação web desenvolvida utilizando o framework Laravel, e utiliza o banco de dados MySQL (MariaDB) para armazenamento de dados. O objetivo deste sistema é auxiliar na gestão e controle de processos de manufatura em uma empresa.
+Este documento serve como guia para a instalação e configuração do Sistema ALLMP. O Sistema ALLMP é uma aplicação web desenvolvida utilizando o framework Laravel, e utiliza o banco de dados SQL para armazenamento de dados. O objetivo deste sistema é auxiliar na gestão e controle de processos de manufatura em uma empresa.
 
 ## Tecnologias Utilizadas
 
